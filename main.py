@@ -1,0 +1,7 @@
+print('Hola mundo')
+
+
+
+
+for i in range(100000):
+    print(i)
