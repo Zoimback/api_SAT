@@ -1,0 +1,31 @@
+
+# Entornos virtuales
+venv/
+.env
+
+# Archivos de configuración específicos del sistema operativo
+*.DS_Store
+*.log
+
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Configuración del editor o IDE
+.vscode/
+.idea/
+
+
+# Archivos de configuración específicos del sistema operativo
+*.DS_Store
+*.log
+
+
+
+# Configuración de pruebas y cobertura
+.coverage
+pytest_cache/
+htmlcov/
