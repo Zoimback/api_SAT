@@ -9,4 +9,7 @@ app.include_router(endpoints.router)
 
 @app.get("/")
 async def root():
+    """
+    Simple docuentacion
+    """
     return {"message": "Hello, World!"}
